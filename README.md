@@ -1,4 +1,4 @@
-### Hi there 👋
+### 천천히 하나씩
 
 <!--
 **bj-an/bj-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
